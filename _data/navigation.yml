@@ -1,22 +1,28 @@
 # main links links
 main:
+
+  - title: "Academic"
+    url: /academic/  
+
+  - title: "Awards"
+    url: /404/   
+
+  - title: "Experience"
+    url: /experience/   
+
+  - title: "Research"
+    url: /research/   
+
   - title: "Publications"
     url: /publications/
 
-  - title: "Talks"
-    url: /talks/    
 
-  - title: "Teaching"
-    url: /teaching/    
+  - title: "Colaborator"
+    url: /404/    
     
-  - title: "Portfolio"
-    url: /portfolio/
+  - title: "Gallery"
+    url: /404/
         
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Contact"
+    url: /contact/
     
-  - title: "CV"
-    url: /cv/
-    
-  - title: "Guide"
-    url: /markdown/
