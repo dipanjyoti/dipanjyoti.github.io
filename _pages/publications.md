@@ -1,20 +1,15 @@
 ---
 layout: page
 permalink: /publications/
-title: publications
-description: Selected peer-reviewed publications in machine learning, computer vision, and streaming data.
+title: Publications
+description: 
 nav: true
 nav_order: 2
 ---
 
-<!-- _pages/publications.md -->
+<p>
+  Please see my
+  <a href="https://scholar.google.com/citations?user=AwOcRTAAAAAJ&hl=en&authuser=1" target="_blank">Google Scholar</a>
+  profile for the complete list of publications.
+</p>
 
-<!-- Bibsearch Feature -->
-
-{% include bib_search.liquid %}
-
-<div class="publications">
-
-{% bibliography %}
-
-</div>

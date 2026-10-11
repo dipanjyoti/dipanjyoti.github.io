@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Microblog Summarization
+title:  Online Summarization
 description: Online summarization of microblog streams to support disaster response.
 importance: 3
 category: research

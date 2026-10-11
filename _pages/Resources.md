@@ -1,11 +1,10 @@
 ---
 layout: page
-title: projects
+title: Resources
 permalink: /projects/
-description: Research software in interpretable computer vision, streaming data, and optimization.
+description: Selected research softwares, codebases and datasets.
 nav: true
 nav_order: 3
-display_categories: [research]
 horizontal: false
 ---
 
