@@ -391,7 +391,7 @@ latest_posts:
 
     <div style="text-align: center; margin-top: 25px;">
 
-      <a href="/contact/"
+      <a href="{{ '/Contact/' | relative_url }}"
         style="display: inline-block;
                padding: 10px 35px;
                border-radius: 30px;
@@ -556,7 +556,7 @@ latest_posts:
       <div>
 
         <div class="journey-role">
-          Postdoctoral Fellow
+          Visiting Researcher
         </div>
 
         <div class="journey-place">
